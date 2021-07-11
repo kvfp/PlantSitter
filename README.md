@@ -1,4 +1,6 @@
 # PlantSitter
+Automatic plant watering system with various configurations - powered by Arduino!
+> This endeavor with Arduino started out as a class project, but I expanded on it to apply more software and build a more sophisticated end-product!
 
 ## Project Files
 https://drive.google.com/drive/folders/1NQMT7lRJZVqnV6E9HNil-Ppmle0Hhn1S
